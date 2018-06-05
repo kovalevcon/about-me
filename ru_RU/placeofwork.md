@@ -10,11 +10,15 @@
 * **Используемые инструменты и технологии**:
 * **Проекты**:
 
-### TОО "КазИнфоТех АЦП"
-* **Сайт**: [ссылка](http://kazinfoteh.kz/ "КазИнфоТех") 
+## TОО "КазИнфоТех АЦП"
+* **Сайт**: <a href="http://kazinfoteh.kz/" target="_blank">ссылка</a> 
+
 * **Должность**: Web-разработчик
+
 * **Время работы**: Июль 2015 — Июль 2016 (1 год 1 месяц)
-* **Обязанности**: Проектирование и разработка проекта "Где ребенок" [ссылка](http://gderebenok.kz/ "Где ребенок").
+
+* **Обязанности**: Проектирование и разработка проекта "Где ребенок" 
+    <a href="http://gderebenok.kz/" target="_blank">ссылка</a>.
     Были использованы интеграции с SMS шлюзами мобильных операторов Activ/Kcell/Beeline/Tele2, системой локального
     местоположения абонента LBS от Activ/Kcell.
     Разработка шла на языке PHP 5.6-7.0 на базе фреймворка Laravel 5.
@@ -23,27 +27,39 @@
     Управление сервером на хостинге PS.kz, настройка Web сервера nginx.
     Администрирование базы данных MariaDB 10.1: создание/редактирование таблиц, создание индексов и внешних ключей, 
     написание сложных запрос SQL для выборки отчетностей.
-* **Используемые инструменты и технологии**: PHP 5.6-7.0, Laravel 5, HTML, CSS, JavaScript, jQuery, IDE PHPStorm, MariaDB 10.1,
-    DBForge, nginx. Использованы карты Яндекс.Карты и Google Maps, совместно с библиотекой LeafletJs 
-    [ссылка](https://leafletjs.com/ "LeafletJs") для создания нескольких слоев карт. Ведение задач в Bitrix24.
-* **Проекты**: Основной проект был "Где ребенок" [ссылка](http://gderebenok.kz/ "Где ребенок"). Он был создан с нуля 
-    и проведен полный цикл разработки до запуска. 
+    
+* **Используемые инструменты и технологии**: 
+    * PHP 5.6-7.0, Laravel 5;
+    * СУБД MariaDB 10.1, DBForge;
+    * nginx, memcached;
+    * HTML, CSS, JavaScript, jQuery;
+    * Git, GitFlow, BitBucket;
+    * IDE PHPStorm, Sublime Text; 
+    * Использованы карты Яндекс.Карты и Google Maps, совместно с библиотекой LeafletJs 
+    <a href="https://leafletjs.com/" target="_blank">ссылка</a> для создания нескольких слоев карт. 
+    * Ведение задач в Bitrix24.
+    
+* **Проекты**: Основной проект был "Где ребенок" <a href="http://gderebenok.kz/" target="_blank">ссылка</a>.
+    Он был создан с нуля и проведен полный цикл разработки до запуска. 
     Помимо Web версии сайта, были запущены мобильные приложения:
     * GPS мониторинг - Apple iOS 
-    [ссылка](https://itunes.apple.com/kz/app/gde-rebenok.-gps-monitoring/id1065792939?l=ru&ls=1&mt=8 "GPS мониторинг 
-    Apple iOS"),  Android OS [ссылка](https://play.google.com/store/apps/details?id=kazinfoteh.gderebenok 
-    "GPS мониторинг").
+    <a href="https://itunes.apple.com/kz/app/gde-rebenok.-gps-monitoring/id1065792939?l=ru&ls=1&mt=8" target="_blank">
+    ссылка</a>, Android OS <a href="https://play.google.com/store/apps/details?id=kazinfoteh.gderebenok" target="_blank">
+    ссылка</a>.
     * Родительское приложение - 
-    Apple iOS [ссылка](https://itunes.apple.com/kz/app/gde-rebenok.-roditel-skoe/id1117790894?l=ru&ls=1&mt=8 
-    "Родительское приложение Apple iOS"), 
-    Android OS [ссылка](https://play.google.com/store/apps/details?id=kz.kazinfoteh.gderebenokmanager 
-    "Родительское приложение Android OS").
+    Apple iOS <a href="https://itunes.apple.com/kz/app/gde-rebenok.-roditel-skoe/id1117790894?l=ru&ls=1&mt=8" target="_blank">
+    ссылка</a>, Android OS 
+    <a href="https://play.google.com/store/apps/details?id=kz.kazinfoteh.gderebenokmanager" target="_blank">ссылка</a>.
 
-### ТОО "GSM Tech Management"
+## ТОО "GSM Tech Management"
+
 * **Сайт**: http://www.gsm-tm.kz/ сайте уже не работает, но остался его след 
-    [ссылка](http://bizgid.kz/mobilnij_kontent-almaty/GSM_Tech_Management-of27329/ "gsm-tm.kz")
+    <a href="http://bizgid.kz/mobilnij_kontent-almaty/GSM_Tech_Management-of27329/" target="_blank">ссылка</a>
+
 * **Должность**: Web-разработчик
+
 * **Время работы**: Март 2012 — Июнь 2014 (2 года 4 месяца)
+
 * **Обязанности**: Разработка информационно-развлекательных продуктов для сотовых операторов Казахстана: Kcell/Activ,
     Beeline. Основные продукты: SMS-подписки, USSD викторины, приложения-услуги на основе локального местоположения 
     абонента (LBS) от данных оператора Kcell/Activ.
@@ -55,20 +71,26 @@
     запросов на сервис LBS.
     Техническая поддержка пользователей сервисов, консультирование и переговоры с партнерами (Kcell/Active, Beeline,
     Chocolife).
-* **Используемые инструменты и технологии**: PHP 5.3-5.4, HTML, CSS, JavaScript, jQuery, СУБД MysSQL 5.6, MySQL Workbench 5.2, 
-    редактор NotePad++.
+
+* **Используемые инструменты и технологии**: 
+    * PHP 5.3-5.4;
+    * СУБД MysSQL 5.6, MySQL Workbench 5.2;
+    * Apache 2.4;
+    * HTML, CSS, JavaScript, jQuery;
+    * Редактор NotePad++.
+
 * **Проекты**:
-    * Реализованы следующие викторины для Activ/Kcell: 
-    "Самый умный" [ссылка](https://activ.kz/ru/news/2568 "Самый умный"),
-    "Ищите женщину!" [ссылка](https://activ.kz/ru/news/2563 "Ищите женщину!"),
-    "Чемпион"(2014) [ссылка](https://activ.kz/ru/news/2482 "Чемпион"), 
-    "Включите логику!" [ссылка](https://activ.kz/ru/news/2579 "Включите логику!"), 
-    "Учат в школе" [ссылка](https://activ.kz/ru/news/2521 "Учат в школе"),
-    "Sport of the Day" [ссылка](https://activ.kz/ru/news/2571 "Sport of the Day").
+    * Реализованы следующие викторины для Activ/Kcell:
+    "Самый умный" <a href="https://activ.kz/ru/news/2568" target="_blank">ссылка</a>,
+    "Ищите женщину!" <a href="https://activ.kz/ru/news/2563" target="_blank">ссылка</a>,
+    "Чемпион"(2014) <a href="https://activ.kz/ru/news/2482/" target="_blank">ссылка</a>, 
+    "Включите логику!" <a href="https://activ.kz/ru/news/2579" target="_blank">ссылка</a>, 
+    "Учат в школе" <a href="https://activ.kz/ru/news/2521" target="_blank">ссылка</a>,
+    "Sport of the Day" <a href="https://activ.kz/ru/news/2571" target="_blank">ссылка</a>.
     * Обновлен сервис обучения английскому языку "Фраза дня" через SMS уроки совместно с партнером "British Council". 
     Сервис делиться на разные уровни обучения: Easy, Medium и Hard.
     * Создан конкурс для Activ/Kcell "English in Britain is Great"
-     [ссылка](https://activ.kz/ru/news/2541 "English in Britain is Great")
+     <a href="https://activ.kz/ru/news/2541" target="_blank">ссылка</a>.
     * Совместно с партнером Chocolife, создан продукт информирования и покупки купонов на скидки, посредствам мобильного
     баланса Activ/Kcell. Были созданы USSD меню и SMS-сервис.
     * Информирование клиентов Activ/Kcell об погоде согласно данным LBS. Мной были созданы полигоны множества точек 
@@ -76,17 +98,25 @@
     момент отправки прогноза погоды, подбирался нужный город или регион. Данные о полигонах и конвертирование координат
     в адреса взяты из сервиса Яндекс.Карты.
 
-### ОЮЛ "KazRENA" - Ассоциация пользователей компьютерной сети Казахстана
-* **Сайт**: [ссылка](https://www.kazrena.kz/ "KazRENA")
+## ОЮЛ "KazRENA" - Ассоциация пользователей компьютерной сети Казахстана
+
+* **Сайт**: <a href="https://www.kazrena.kz/" target="_blank">ссылка</a>
+
 * **Должность**: Технический специалист в отделе инновационных введений
+
 * **Время работы**: Ноябрь 2010 — Март 2012 (1 год 5 месяцев)
+
 * **Обязанности**: Слежение за работоспособностью системы контроля доступа в помещение на ПО Орион.
    Печать ISIC карт (Дисконтные пластиковые карты с бесконтактным чипом) на принтере FARGO, изготовление дизайна 
    для карт. Установка системы контроля доступа в помещения на основе электронных турникетов, программирование 
    контроллеров турникетов, настройка серверного ПО PERCo и ПО Орион. Поддержка работоспособности локальной сети,
    настройка и диагностика ПК, орг. техники и др. Слежение и ответ на заявки по тендерам.
-* **Используемые инструменты и технологии**: ПО "Орион" для СКУД, ПО "Assure ID" для печати на принтере Fargo, СУБД Microsoft 
-    Access для хранения данных пользователей карт ISIC.
+
+* **Используемые инструменты и технологии**: 
+    * ПО "Орион" для СКУД;
+    * ПО "Assure ID" для печати на принтере Fargo;
+    * СУБД Microsoft Access для хранения данных пользователей карт ISIC.
+
 * **Проекты**: 
     * Участвовал в настройке и администрировании СКУД на базе ПО "Орион" на месте работы организации ОЮЛ "KazRENA".
     * Реализовывал проект по установке СКУД и печати ISIC карт студентам в Актюбинском Государственном Университете 

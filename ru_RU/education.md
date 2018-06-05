@@ -38,9 +38,9 @@
   Казахский Национальный Технический Университет имени К.И. Сатпаева, Сертификат об окончании курса;
 
 ### Онлайн курсы
-* Git - https://githowto.com/
-* Java - https://javarush.ru пройден курс "Java Syntax"
-* CS50 2017 - https://cs50.harvard.edu/
+* Git - <a href="https://githowto.com/" target="_blank">https://githowto.com</a>
+* Java - <a href="https://javarush.ru/" target="_blank">https://javarush.ru</a> пройден курс "Java Syntax"
+* CS50 2017 - <a href="https://cs50.harvard.edu/" target="_blank">https://cs50.harvard.edu/</a> 
 
 ### Тренинги
 * 2011, Тренинг "Внедрение IPv6", ОЮЛ "KazRENA", Сертификат об окончании курса

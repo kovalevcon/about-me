@@ -34,13 +34,18 @@
 
 * 2010, CISCO CNNA Discovery: Networking for Home and Small Businesses, Казахский Национальный Технический Университет 
   имени К.И. Сатпаева, Сертификат об окончании курса
+  
 * 2011, CCNA Discovery: Working at a Small-to-Medium Business or ISP, 
   Казахский Национальный Технический Университет имени К.И. Сатпаева, Сертификат об окончании курса;
 
 ### Онлайн курсы
-* Git - <a href="https://githowto.com/" target="_blank">https://githowto.com</a>
-* Java - <a href="https://javarush.ru/" target="_blank">https://javarush.ru</a> пройден курс "Java Syntax"
-* CS50 2017 - <a href="https://cs50.harvard.edu/" target="_blank">https://cs50.harvard.edu/</a> 
+* `Git` <a href="https://githowto.com/" target="_blank">https://githowto.com</a>
+
+* `Java` <a href="https://javarush.ru/" target="_blank">https://javarush.ru</a> пройден курс "Java Syntax"
+
+* `Python 3` <a href="https://www.codecademy.com/learn/learn-python" target="_blank">https://www.codecademy.com</a>
+
+* `CS50 2017 (Язык C)` <a href="https://cs50.harvard.edu/" target="_blank">https://cs50.harvard.edu/</a>
 
 ### Тренинги
 * 2011, Тренинг "Внедрение IPv6", ОЮЛ "KazRENA", Сертификат об окончании курса

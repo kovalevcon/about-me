@@ -6,7 +6,7 @@
 
 * **Сайт**: <a href="http://nplus.tech/" target="_blank">ссылка</a>
 
-* **Должность**: Senior Web-разработчик, DevOps
+* **Должность**: Senior Web-developer, DevOps
 
 * **Время работы**: Май 2018 — по настоящее время
 
@@ -16,12 +16,11 @@
 
 * **Проекты**:
 
-
 ## TOO "Digital Management"
 
 * **Сайт**: <a href="https://paybox.money/" target="_blank">ссылка</a>
 
-* **Должность**: Senior Web-разработчик, Lead Web-разработчик
+* **Должность**: Senior Web-developer, Lead Web-developer
 
 * **Время работы**: Март 2017 — Май 2018 (1 год 3 месяца)
 
@@ -83,7 +82,7 @@
 
 * **Сайт**: <a href="http://resmi.kz/" target="_blank">ссылка</a>
 
-* **Должность**: Web-разработчик
+* **Должность**: Web-developer
 
 * **Время работы**: Июль 2016 — Март 2017 (9 месяцев)
 
@@ -127,7 +126,7 @@
 
 * **Сайт**: <a href="http://kazinfoteh.kz/" target="_blank">ссылка</a>
 
-* **Должность**: Web-разработчик, Senior Web-разработчик
+* **Должность**: Web-developer, Senior Web-developer
 
 * **Время работы**: Июль 2015 — Июль 2016 (1 год 1 месяц)
 
@@ -176,7 +175,7 @@
 * **Сайт**: http://www.gsm-tm.kz/ сайте уже не работает, но остался его след 
     <a href="http://bizgid.kz/mobilnij_kontent-almaty/GSM_Tech_Management-of27329/" target="_blank">ссылка</a>
 
-* **Должность**: Web-разработчик
+* **Должность**: Web-developer
 
 * **Время работы**: Март 2012 — Июнь 2014 (2 года 4 месяца)
 
@@ -226,7 +225,7 @@
 
 * **Сайт**: <a href="https://www.kazrena.kz/" target="_blank">ссылка</a>
 
-* **Должность**: Технический специалист в отделе инновационных введений
+* **Должность**: Technical engineer
 
 * **Время работы**: Ноябрь 2010 — Март 2012 (1 год 5 месяцев)
 

@@ -23,7 +23,7 @@
     
 * <a href="https://www.activ.kz/" target="_blank">activ.kz</a>,
 <a href="https://www.kcell.kz/" target="_blank">kcell.kz</a>,
-<a href="https://www.beeline.kz" target="_blank">beeline.kz</a> - интеграция для предоставления сервисов посредствам 
+<a href="https://www.beeline.kz" target="_blank">beeline.kz</a> - интеграция для предоставления сервисов посредством 
 SMS, USSD, использование технологии LBS.
 
 Вернуться [в основной раздел](/ru_RU/main.md "в основной раздел").

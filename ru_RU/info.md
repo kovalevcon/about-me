@@ -49,6 +49,7 @@
     * TopCoder: <a href="https://www.topcoder.com/members/kovalevcon/" target="_blank">ссылка</a>
     * LeetCode: <a href="https://leetcode.com/kovalevcon/" target="_blank">ссылка</a>
     * CodeAcademy: <a href="https://www.codecademy.com/kovalevcon" target="_blank">ссылка</a>
+    * CodeSignal: <a href="https://app.codesignal.com/profile/kovalevcon/overview" target="_blank">ссылка</a>
     
 * Соц. сети, резюме:    
     * UpWork: to-do

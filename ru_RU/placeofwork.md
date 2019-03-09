@@ -4,7 +4,7 @@
 
 ## TOO "Nursat plus"
 
-* **Сайт**: <a href="http://nplus.tech/" target="_blank">ссылка</a>
+* **Сайт**: <a href="http://nplus.tech/" target="_blank">nplus.tech</a>
 
 * **Должность**: Senior Web-developer, DevOps
 
@@ -12,7 +12,7 @@
 
 * **Обязанности**:
 
-    Работа над проектом <a href="https://ktpay.kz/" target="_blank">Ktpay</a>.
+    Работа над проектом <a href="https://ktpay.kz/" target="_blank">ktpay.kz</a>.
     Разработка кода для frontend-а и мобильных приложений - REST API JSON, введение документации в Swagger.
     
     Реализация интеграция с партнерами:
@@ -25,14 +25,14 @@
 
 * **Используемые инструменты и технологии**:
 
-    * PHP 7.1, Laravel 5.2;
-    * СУБД MariaDB 10.2, MySQL Workbench;
-    * Nginx, Docker;
+    * PHP 7.1, Lumen 5.5;
+    * СУБД MySQL 5.7, DBeaver;
+    * Nginx, Docker, Docker compose;
     * Vue.js, JavaScript, ES6, HTML, CSS;
     * Git, GitFlow, GitLab CE, Gitlab CI, Ansible;
     * IDE PHPStorm;
     * Insomnia REST Client, Swagger;
-    * Ведение задач в Teamwork.
+    * Ведение задач в Teamwork, Jira.
 
 * **Проекты**:
 
@@ -42,7 +42,7 @@
 
 ## TOO "Digital Management"
 
-* **Сайт**: <a href="https://paybox.money/" target="_blank">ссылка</a>
+* **Сайт**: <a href="https://paybox.money/" target="_blank">paybox.money</a>
 
 * **Должность**: Senior Web-developer, Lead Web-developer
 
@@ -86,28 +86,28 @@
 * **Проекты**:
 
     Ведущие участие в разработке проекта интегратора платежных систем "Paybox.money"
-    <a href="https://paybox.money/" target="_blank">ссылка</a>.
+    <a href="https://paybox.money/" target="_blank">paybox.money</a>.
     
     В основном работа велась над системой эквайринга, для ее использования в странах: Казахстан, Киргизстан, Российская
     Федерация.
     
     Казахстан:
     * Обновлял и модернизировал интеграция с банком Epay AO «Qazkom» 
-    <a href="https://epay.kkb.kz/" target="_blank">ссылка</a>. Так же для схемы работы мультиэквайринга мной была
+    <a href="https://epay.kkb.kz/" target="_blank">epay.kkb.kz</a>. Так же для схемы работы мультиэквайринга мной была
     создана интеграция эквайринга АО «Forte Bank»
-    <a href="https://forte.bank/for-business/acquiring/" target="_blank">ссылка</a>
+    <a href="https://forte.bank/for-business/acquiring/" target="_blank">forte.bank</a>
     
     Киргизстан:
     * Дополнил эквайринг Epay Qazkom для работы в Киргизстане через ОАО «Кыргызкоммерцбанк»
-    <a href="http://kkb.kg/ru/payment-cards/acquiring-services/internet-acquiring/" target="_blank">ссылка</a>
+    <a href="http://kkb.kg/ru/payment-cards/acquiring-services/internet-acquiring/" target="_blank">kkb.kg</a>
     
     Российская Федерация:
     * Создал интеграцию эквайринга для АО «Банк Русский Стандарт» 
-    <a href="https://acquiring.ru/" target="_blank">ссылка</a>
+    <a href="https://acquiring.ru/" target="_blank">acquiring.ru</a>
 
 ## TOO "Resmi Прямые инвестиции"
 
-* **Сайт**: <a href="http://resmi.kz/" target="_blank">ссылка</a>
+* **Сайт**: <a href="http://resmi.kz/" target="_blank">resmi.kz</a>
 
 * **Должность**: Web-developer
 
@@ -126,7 +126,8 @@
 
      * Разработка админ-панели для проекта "HealthBook";
 
-     * Реализация интеграций для смежных продуктов "DreamClub" <a href="https://dreamclub.kz/" target="_blank">ссылка</a>;
+     * Реализация интеграций для смежных продуктов "DreamClub" 
+     <a href="https://dreamclub.kz/" target="_blank">dreamclub.kz</a>;
 
      * Администрирование баз данных: MySQL, MongoDB.
 
@@ -161,16 +162,16 @@
 
 ## TОО "КазИнфоТех АЦП"
 
-* **Сайт**: <a href="http://kazinfoteh.kz/" target="_blank">ссылка</a>
+* **Сайт**: <a href="http://kazinfoteh.kz/" target="_blank">kazinfoteh.kz</a>
 
 * **Должность**: Web-developer, Senior Web-developer
 
-* **Время работы**: Июль 2015 — Июль 2016 (1 год 1 месяц)
+* **Время работы**: Июнь 2015 — Июль 2016 (1 год 1 месяц)
 
 * **Обязанности**: 
     
     Проектирование и разработка проекта "Где ребенок" 
-    <a href="http://gderebenok.kz/" target="_blank">ссылка</a>.
+    <a href="http://gderebenok.kz/" target="_blank">gderebenok.kz</a>.
     
     * Были использованы интеграции с SMS шлюзами мобильных операторов Activ/Kcell/Beeline/Tele2, системой локального
     местоположения абонента LBS от Activ/Kcell.
@@ -194,12 +195,12 @@
     * IDE PHPStorm, Sublime Text;
     * Postman;
     * Использованы карты Яндекс.Карты и Google Maps, совместно с библиотекой LeafletJs 
-    <a href="https://leafletjs.com/" target="_blank">ссылка</a> для создания нескольких слоев карт. 
+    <a href="https://leafletjs.com/" target="_blank">leafletjs.com</a> для создания нескольких слоев карт. 
     * Ведение задач в Bitrix24.
     
 * **Проекты**: 
 
-    Основной проект был "Где ребенок" <a href="http://gderebenok.kz/" target="_blank">ссылка</a>.
+    Основной проект был "Где ребенок" <a href="http://gderebenok.kz/" target="_blank">gderebenok.kz</a>.
     Он был создан с нуля и проведен полный цикл разработки до запуска. 
     Помимо Web версии сайта, были запущены мобильные приложения:
 
@@ -275,7 +276,7 @@
 
 ## ОЮЛ "KazRENA" - Ассоциация пользователей компьютерной сети Казахстана
 
-* **Сайт**: <a href="https://www.kazrena.kz/" target="_blank">ссылка</a>
+* **Сайт**: <a href="https://www.kazrena.kz/" target="_blank">kazrena.kz</a>
 
 * **Должность**: Technical engineer
 

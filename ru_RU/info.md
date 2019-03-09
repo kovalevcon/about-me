@@ -57,4 +57,4 @@
 <a href="https://hh.kz/applicant/resumes/view?resume=06112c84ff0108ba950039ed1f553835676d74" target="_blank">ссылка</a>
     * LinkedIn: <a href="https://www.linkedin.com/in/constantine-kovalev-474859bb/" target="_blank">ссылка</a>
 
-Вернуться [в основной раздел](/ru_RU/main.md "в основной раздел").
+Вернуться [в основной раздел](/README.md "в основной раздел").

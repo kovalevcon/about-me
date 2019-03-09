@@ -7,7 +7,7 @@
 ## Программирование:
 
 * `PHP 5.6-7.2` - пока основной язык разработки;
-    * Фреймворки: Laravel 5, Yii 1 и 2;
+    * Фреймворки: Laravel 5, Lumen 5, Yii 1/2;
     * Memcached.
     
 * `JavaScript (ES6)` - использую в связке с PHP;
@@ -59,7 +59,7 @@
     * GitLab.com.
 
 ## Тестирование:
-* PHPUnit;
+* PHPUnit Tests;
 * Codeception;
 * Selenium WebDriver;
 * Apache JMeter.
@@ -93,6 +93,7 @@
 
 ## Проект менеджмент
 
+* Jira;
 * Bitrix24;
 * TeamWork;
 * Basecamp;
@@ -103,4 +104,5 @@
 * Google Maps API;
 * Yandex Maps API;
 * OAuth 2.0;
+* JWT tokens;
 * API социальный сетей: Facebook, VK, Mail.ru, Одноклассники.

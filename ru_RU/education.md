@@ -45,7 +45,7 @@
 
 * `Python 3` <a href="https://www.codecademy.com/learn/learn-python" target="_blank">https://www.codecademy.com</a>
 
-* `CS50 2017 (Язык C)` <a href="https://cs50.harvard.edu/" target="_blank">https://cs50.harvard.edu/</a>
+* `CS50 2018 (Язык C)` <a href="https://cs50.harvard.edu/" target="_blank">https://cs50.harvard.edu/</a>
 
 ### Тренинги
 * 2011, Тренинг "Внедрение IPv6", ОЮЛ "KazRENA", Сертификат об окончании курса
@@ -54,4 +54,4 @@
 * 2011, Первая Студенческая Олимпиада CISCO, Казахский Национальный Технический Университет имени К.И. Сатпаева, 
   Сертификат участника
 
-Вернуться [в основной раздел](/ru_RU/main.md "в основной раздел").
+Вернуться [в основной раздел](/README.md "в основной раздел").

@@ -1,16 +1,27 @@
 # About me
-To continue on English language forward to [Main chapter](/en_EN/main.md "Main chapter").
+
+This repository contains information about my skills and experience in the field of programming, 
+completed projects, education and interests.
+
+Further subsections are divided according to the relevant topics:
+
+* [General Information](/en_EN/info.md "General Information");
+* [Education - universities, certificates, advanced training](/en_EN/education.md "Education");
+* [Places of work](/en_EN/placeofwork.md "Places of work");
+* [Skills](/en_EN/skills.md "Skills");
+* [Project Portfolio](/en_EN/portfolio.md "Project Portfolio").
 
 # Обо мне
 
-Часто необходимо показать заказчику, HR-менеджеру, CTO и другим информацию о себе как об IT-специалисте. 
-
-Я решил было бы неплохо собрать, структуризовать, хранить, дополнять все в одном общедоступном
-месте. Например в GitHub.
-
-Хочу изложить здесь краткую, но исчерпывающую информацию о мне, своих навыках, опыте 
-и интересах.
+Данный репозиторий содержит информацию о моих навыках и опыте в сфере программирования, выполненных проектов,
+образовании и интересах.
   
-Для продолжения перейдите в [Основной раздел](/ru_RU/main.md "Основной раздел").
+Далее подразделы разделены согласно соответствующей тематики:
+
+* [Общая информация](/ru_RU/info.md "Общая информация");
+* [Образование - университеты, сертификаты, повышения квалификации](/ru_RU/education.md "Образование");
+* [Места работы](/ru_RU/placeofwork.md "Места работы");
+* [Навыки](/ru_RU/skills.md "Навыки");
+* [Портфолио проектов](/ru_RU/portfolio.md "Портфолио проектов").
 
 ### &copy; Kovalev Constantine

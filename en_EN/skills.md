@@ -30,7 +30,7 @@ Skills are categorized according to affiliation.
 ## Databases:
 
 * MariaDB, MySQL;
-    * Managers: DBForge, MySQL Workbench.
+    * Managers: DBeaver, DBForge, MySQL Workbench.
 * MongoDB;
     * Managers: Robo 3T.
 * Microsoft Access;

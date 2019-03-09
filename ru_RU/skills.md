@@ -30,7 +30,7 @@
 ## Базы данных:
 
 * MariaDB, MySQL;
-    * Менеджеры: DBForge, MySQL Workbench.
+    * Менеджеры: DBeaver, DBForge, MySQL Workbench.
 * MongoDB;
     * Менеджеры: Robo 3T.
 * Microsoft Access;

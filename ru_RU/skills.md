@@ -15,7 +15,7 @@
     
 * `Node.js` - использую для написания ботов в Telegram.
     
-* `Python 3` - сейчас активно его изучаю, планирую больше на нем программировать;
+* `Python 3`, `Golang` - сейчас активно их изучаю, планирую больше на них программировать;
 
 * `C` - выполняю практические задачи, изучаю для общего развития;
 
@@ -43,6 +43,7 @@
 * Tomcat.
 
 ## Виртуализация:
+
 * Docker
 * Docker compose
 * Vagrant
@@ -59,6 +60,7 @@
     * GitLab.com.
 
 ## Тестирование:
+
 * PHPUnit Tests;
 * Codeception;
 * Selenium WebDriver;
@@ -73,11 +75,14 @@
 
 ## Редакторы
 
+* Vim;
+* Nano;
 * Jet Brains продукты:
     * IDE PHPStorm;
     * IDE WebStorm;
     * IntelliJ IDEA;
-    * IDE PyCharm.
+    * IDE PyCharm;
+    * IDE GoLand.
 * Sublime Text;
 * NotePad++.
 
@@ -86,7 +91,7 @@
 * Postman;
 * Insomnia.
 
-## Описание API
+## Документирование API
 
 * RAML 0.8/1;
 * Swagger 2.
@@ -101,6 +106,7 @@
 * Slack.
 
 ## Разное
+
 * Google Maps API;
 * Yandex Maps API;
 * OAuth 2.0;

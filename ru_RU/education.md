@@ -34,11 +34,13 @@
 
 * 2010, CISCO CNNA Discovery: Networking for Home and Small Businesses, Казахский Национальный Технический Университет 
   имени К.И. Сатпаева, Сертификат об окончании курса
-  
+
 * 2011, CCNA Discovery: Working at a Small-to-Medium Business or ISP, 
   Казахский Национальный Технический Университет имени К.И. Сатпаева, Сертификат об окончании курса;
 
 ### Онлайн курсы
+* `Go` <a href="https://github.com/kovalevcon/go_crash_course">Go интенсивный курс</a>
+
 * `Git` <a href="https://githowto.com/" target="_blank">https://githowto.com</a>
 
 * `Java` <a href="https://javarush.ru/" target="_blank">https://javarush.ru</a> пройден курс "Java Syntax"

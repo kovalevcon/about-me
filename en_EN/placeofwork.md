@@ -14,12 +14,12 @@ Places of work are arranged in order from fresh to old.
 
     Project work <a href="https://ktpay.kz/" target="_blank">ktpay.kz</a>.
     Development of code for frontend and mobile applications - REST JSON API, introduction of documentation to Swagger.
-    
+
     Implementation integration with partners:
     * Bank acquiring <a href="http://ru.kkb.kz/cards/page/InternetEcqu" target="_blank">Epay KKB</a>;
     * payment through API Kassa24;
     * direct integration with partners.
-    
+
     Adoption of architectural decisions, review team code.
     Administration of servers, Docker containers, setting up Gitlab CI.  
 
@@ -49,11 +49,11 @@ Places of work are arranged in order from fresh to old.
 * **Working hours**: March 2017 — May 2018 (1 year 3 month)
 
 * **Duties**:
-    
+
     Development of software for the integrator of payment systems: bank acquiring (VISA, MasterCard, AMEX),
     transfers from card to card (Peer2Peer), transfers from card to ATM (CashByCode), transfers to IBAN account, 
     integration with partners KazPOChTA (KazPOST), Kassa24, Qiwi and others, electronic wallets.
-    
+
     Modernization and refinement of the administrative panel for administrators-managers - payment management (refunds,
     cancellations, obtaining status), collecting statistics, analytics, downloading reports, creating/updating
     customer data.
@@ -66,14 +66,14 @@ Places of work are arranged in order from fresh to old.
     * Save bank cards;
     * Quick payment via a previously saved bank card;
     * iFrame payment for integration on the client side.
-    
+
     Accompaniment and support of clients, partners of the company. Assistance in the integration of the system 
     integrator payment systems.
     Implementation of automatic reports for mutual settlements with customers, simplification for accounting work.
-    
+
     Me led a team of 4 programmers, assisted in setting tasks, making architectural decisions and
     code review commands. Participated in negotiations with partners for the coordination of technical issues.
-    
+
 * **Used tools and technologies**:
 
     * PHP 7.1, Laravel 5.2;
@@ -83,25 +83,25 @@ Places of work are arranged in order from fresh to old.
     * Git, GitFlow, BitBucket, GitLab CE, Gitlab CI, Fabric;
     * IDE PHPStorm;
     * Postman;
-    
+
 * **Projects**:
 
     Leading participation in the development of the project integrator payment systems "Paybox.money"
     <a href="https://paybox.money/" target="_blank">paybox.money</a>.
-    
+
     Most of the work was done on the acquiring system, for its use in the countries of: Kazakhstan, Kyrgyzstan, Russian
     Federation.
-    
+
     Kazakhstan:
     * Updated and upgraded integration with Epay AO Qazkom Bank
     <a href="https://epay.kkb.kz/" target="_blank">epay.kkb.kz</a>. 
     Also for the multi-provisioning scheme I was acquiring integration of Forte Bank JSC created
     <a href="https://forte.bank/for-business/acquiring/" target="_blank">forte.bank</a>
-    
+
     Kyrgyzstan: 
     * Supplemented Epay Kazkom acquiring for work in Kyrgyzstan through Kyrgyzkommertsbank OJSC
     <a href="http://kkb.kg/ru/payment-cards/acquiring-services/internet-acquiring/" target="_blank">kkb.kg</a>
-    
+
     Russian Federation:
     * Created acquiring integration for Russian Standard Bank JSC
     <a href="https://acquiring.ru/" target="_blank">acquiring.ru</a>
@@ -114,8 +114,8 @@ Places of work are arranged in order from fresh to old.
 
 * **Working hours**: July 2016 — March 2017 (9 month)
 
-* **Duties**: 
-    
+* **Duties**:
+
     Participation in project development "HealthBook" 
     <a href="https://healthbook.kz/" target="_blank">link</a>.   
     The service was built on several micro-services using the PHP 5.6-7.0 + Nginx bundle,
@@ -172,23 +172,23 @@ Places of work are arranged in order from fresh to old.
 * **Working hours**: June 2015 — July 2016 (1 year 1 month)
 
 * **Duties**: 
-    
+
     Design and development of the project "Gde rebenok"
     <a href="http://gderebenok.kz/" target="_blank">gderebenok.kz</a>.
-    
+
     * Integration with SMS gateways of the mobile operators Activ/Kcell/Beeline/Tele2, the local system
     LBS subscriber locations from Activ/Kcell.
-    
+
     * Development was in PHP 5.6-7.0 based on the Laravel 5 framework.
-    
+
     * Writing a REST API for mobile applications GPS monitoring and administration.
-    
+
     An admin panel was created for statistics, moderation, administration, and other related web interfaces.
     Server management on PS.kz hosting, setting up a Nginx Web server.
     Administration of the MariaDB 10.1 database: creating/editing tables, creating indexes and foreign keys,
     writing complex SQL query for reporting selection.
-    
-* **Used tools and technologies**: 
+
+* **Used tools and technologies**:
 
     * PHP 5.6-7.0, Laravel 5;
     * DBMS MariaDB 10.1, DBForge;
@@ -200,11 +200,11 @@ Places of work are arranged in order from fresh to old.
     * Maps of Yandex.Maps and Google Maps are used, together with the LeafletJs library.
     <a href="https://leafletjs.com/" target="_blank">leafletjs.com</a> to create multiple layers of maps.
     * Maintaining tasks in Bitrix24.
-    
+
 * **Projects**: 
 
     Major project "Gde rebenok" <a href="http://gderebenok.kz/" target="_blank">gderebenok.kz</a>.
-    
+
     It was created from scratch and carried out a full development cycle prior to launch.
     In addition to the Web version of the site, mobile applications were launched:
 
@@ -227,8 +227,8 @@ Places of work are arranged in order from fresh to old.
 
 * **Working hours**: March 2012 — June 2014 (2 years 4 month)
 
-* **Duties**: 
-    
+* **Duties**:
+
     * Development of information and entertainment products for mobile operators in Kazakhstan: Kcell/Activ,
     Beeline. Main Products: SMS Subscriptions, USSD Quiz, Local Location Based Application Services
     subscriber (LBS) from Kcell/Activ operator data.
@@ -287,7 +287,7 @@ Places of work are arranged in order from fresh to old.
 
 * **Working hours**: November 2010 — March 2012 (1 year 5 month)
 
-* **Duties**: 
+* **Duties**:
 
     * Tracking the performance of the access control system in the Orion software room.
 
@@ -301,17 +301,17 @@ Places of work are arranged in order from fresh to old.
 
     * Tracking and response to applications for tenders.
 
-* **Used tools and technologies**: 
+* **Used tools and technologies**:
 
     * Software "Orion" for access control;
     * Software "Assure ID" for printing on Fargo printer;
     * Microsoft Access DBMS for storing data of ISIC card users.
 
-* **Projects**: 
+* **Projects**:
 
     * Participated in setting up and administering an ACS based on the Orion software at the place of operation of
      the organization ALE "KazRENA".
-    
+
     * Implemented a project for installing an access control system and printing ISIC cards for students at Aktobe 
     State University named after K.Zhubanov “ASU”.
 

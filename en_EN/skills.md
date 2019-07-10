@@ -9,12 +9,12 @@ Skills are categorized according to affiliation.
 * `PHP 5.6-7.2` - while the main development language;
     * Frameworks: Laravel 5, Lumen 5, Yii 1/2;
     * Memcached.
-    
+
 * `JavaScript (ES6)` - I use in conjunction with PHP;
     * Frameworks: Vue.js, jQuery.
-    
+
 * `Node.js` - I use for writing bots in Telegram.
-    
+
 * `Python 3`, `Golang` - now I actively study them, I plan to program more on them;
 
 * `C` - I perform practical tasks, I study for general development;
@@ -33,6 +33,7 @@ Skills are categorized according to affiliation.
     * Managers: DBeaver, DBForge, MySQL Workbench.
 * MongoDB;
     * Managers: Robo 3T.
+* SQLite;
 * Microsoft Access;
 * SQL - writing queries, triggers, procedures.
 
@@ -71,6 +72,7 @@ Skills are categorized according to affiliation.
 * HTML5;
 * CSS3;
 * Bootstrap 3;
+* Jekyll;
 * Module builders: WebPack, Laravel Mix, Gulp.
 
 ## Editors

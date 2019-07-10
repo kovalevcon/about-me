@@ -36,11 +36,13 @@ Secondary education, certificate of secondary education
 
 * 2010, CISCO CNNA Discovery: Networking for Home and Small Businesses, Kazakh National Technical University
 named KI Satpayev, Certificate of Completion;
-  
+
 * 2011, CCNA Discovery: Working at a Small-to-Medium Business or ISP, 
   Kazakh National Technical University named KI Satpayev, Certificate of Completion.
 
 ### Online courses
+
+* `Go` <a href="https://github.com/kovalevcon/go_crash_course">Go crash course</a>
 
 * `Git` <a href="https://githowto.com/" target="_blank">https://githowto.com</a>
 

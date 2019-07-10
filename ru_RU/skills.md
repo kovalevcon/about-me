@@ -9,12 +9,12 @@
 * `PHP 5.6-7.2` - пока основной язык разработки;
     * Фреймворки: Laravel 5, Lumen 5, Yii 1/2;
     * Memcached.
-    
+
 * `JavaScript (ES6)` - использую в связке с PHP;
     * Фреймворки: Vue.js, jQuery.
-    
+
 * `Node.js` - использую для написания ботов в Telegram.
-    
+
 * `Python 3`, `Golang` - сейчас активно их изучаю, планирую больше на них программировать;
 
 * `C` - выполняю практические задачи, изучаю для общего развития;
@@ -33,6 +33,7 @@
     * Менеджеры: DBeaver, DBForge, MySQL Workbench.
 * MongoDB;
     * Менеджеры: Robo 3T.
+* SQLite;
 * Microsoft Access;
 * SQL - написание запросов, триггеров, процедур.
 
@@ -71,6 +72,7 @@
 * HTML5;
 * CSS3;
 * Bootstrap 3;
+* Jekyll;
 * Сборщики модулей: WebPack, Laravel Mix, Gulp.
 
 ## Редакторы
